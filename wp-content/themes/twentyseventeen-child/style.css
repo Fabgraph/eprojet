@@ -1,0 +1,13 @@
+/*
+Theme Name: twentyseventeen-child
+Template: twentyseventeen
+*/
+
+@import url("../twentyseventeen/style.css");
+
+
+/* à partir d'ici, on met les CSS spécifique au thème enfant */
+
+.wrap {
+    background: pink;
+}
